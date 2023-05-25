@@ -5,3 +5,4 @@ def print_function():
 
 
 print("Areg12")
+print("1111")
