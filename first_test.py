@@ -1,5 +1,5 @@
 def print_function():
     print("Best Wishes")
-    print("gjsg")
-    print("hjsgdhgfhs")
-    print("gjsg")
+    print("test GG")
+    print("Grigor Grigoryan")
+    print("Grigor GG")
