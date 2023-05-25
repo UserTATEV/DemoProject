@@ -4,4 +4,4 @@ def print_function():
     print("hjsgdhgfhs")
 
 
-print("Areg")
+print("Areg1")
