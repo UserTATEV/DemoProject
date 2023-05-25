@@ -3,3 +3,5 @@ def print_function():
     print("gjsg")
     print("hjsgdhgfhs")
     print("gjsg")
+
+print("123")
